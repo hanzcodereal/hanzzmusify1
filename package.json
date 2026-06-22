@@ -1,0 +1,12 @@
+{
+  "name": "hanzzmusify",
+  "version": "1.0.0",
+  "description": "HanzzMusify - Music Player with YouTube API",
+  "main": "api/search.js",
+  "scripts": {
+    "start": "echo 'HanzzMusify running on Netlify'",
+    "build": "echo 'Build completed'"
+  },
+  "author": "Hanzz",
+  "license": "MIT"
+}
